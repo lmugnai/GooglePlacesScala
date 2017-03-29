@@ -1,0 +1,13 @@
+New log file opened at Thu Mar 23 22:56:59 GMT 2017 by 11742@LM-HMRC
+Taking next connection to: 39474
+New client attempting to connect on port: 60490-39474
+  Address = /127.0.1.1:39474
+This client on port 60490 has uuid 234133b2-1a29-412e-956e-5f06aa61e01b configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-234133b2-1a29-412e-956e-5f06aa61e01b
+Taking next connection to: 39474
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 39474
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 39474
